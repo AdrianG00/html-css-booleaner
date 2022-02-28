@@ -33,3 +33,29 @@ main{
     font-weight: bold;
     text-decoration: none;
 }
+.cont-foto{
+    margin: 20px 0px 0px;
+}
+.contenuto{
+    margin-top: 20px;
+    font-size: 18px;
+}
+.evidenziato{
+    background-color: rgb(255, 255, 102);
+}
+.lista{
+    margin-top: 20px;
+    padding: 20px;
+}
+table{
+    width: 100%;
+    font-size: 18px;
+    border-collapse: collapse
+}
+thead{
+    background-color: #429aff;
+    text-align: left;
+}
+.evv{
+    background-color: #83c7ff;
+}
